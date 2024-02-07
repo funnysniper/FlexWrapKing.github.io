@@ -1,0 +1,30 @@
+REPARTO DE TAREAS:
+
+-Paginas asignadas
+paginas totales: 5
+index: mitad/mitad
+galeria: jose
+menu: raul
+ubicacion: jose
+reserva: raul
+
+Imagen de la pagina: JOSE
+Logo: Raul
+Paleta de colores y color de cada seccion: segun la pagina que nos toque
+
+-Documentacion: *preguntar a Roberto
+
+-Medios de comunicacion utilizados: 
+	-Google Docs: medio a tiempo real para hacer la documentacion 
+	-Live Share: extension de Visual Studio Code; permite la codificacion a tiempo real entre dos o mas personas.
+	-Discord: medio de comunicacion para hablarnos.
+
+
+-Github: ya lo veremos
+
+PLATOS:
+
+
+1. BOX
+2. DURUM
+3.
